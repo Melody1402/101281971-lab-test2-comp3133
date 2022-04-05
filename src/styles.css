@@ -1,0 +1,31 @@
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+div{
+    padding: 30px;
+}
+h1{
+    margin-top: 40px; 
+    font-size: 36px; 
+    text-align: center;
+}
+.container{
+    padding: 10px;
+    background-color: bisque;
+}
+.main-content{
+    padding: 20px;
+    float:clear;
+}
+.sub-title{
+    font-weight:bold;
+    font-size: 2em;
+    color: orangered;
+}
+.blue-icon{
+    color:blue;
+}
+.orange-icon{
+    color:orange;
+}
